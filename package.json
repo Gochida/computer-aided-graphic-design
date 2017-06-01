@@ -13,5 +13,8 @@
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
     "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "fabric": "^1.7.11"
   }
 }
