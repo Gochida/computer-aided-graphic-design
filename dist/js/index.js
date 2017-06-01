@@ -1,1 +1,1 @@
-console.log("Hello World!");
+!function r(o,e,n){function t(i,f){if(!e[i]){if(!o[i]){var l="function"==typeof require&&require;if(!f&&l)return l(i,!0);if(u)return u(i,!0);throw new Error("Cannot find module '"+i+"'")}var c=e[i]={exports:{}};o[i][0].call(c.exports,function(r){var e=o[i][1][r];return t(e||r)},c,c.exports,r,o,e,n)}return e[i].exports}for(var u="function"==typeof require&&require,i=0;i<n.length;i++)t(n[i]);return t}({1:[function(r,o,e){console.log("Hello World!"),console.log("Hello World!")},{}]},{},[1]);
