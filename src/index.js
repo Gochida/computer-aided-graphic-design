@@ -1,1 +1,1 @@
-var fabric = require('fabric')
+var fabric = require('fabric'); 
